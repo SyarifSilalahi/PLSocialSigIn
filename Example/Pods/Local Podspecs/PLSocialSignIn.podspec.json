@@ -1,0 +1,25 @@
+{
+  "name": "PLSocialSignIn",
+  "version": "0.1.0",
+  "summary": "A short description of PLSocialSignIn.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PLSocialSignIn",
+  "license": "MIT",
+  "authors": {
+    "Syarif Silalahi": "syarif@pistarlabs.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PLSocialSignIn.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "PLSocialSignIn": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

@@ -3,6 +3,14 @@ use_frameworks!
 
 target 'PLSocialSignIn_Example', :exclusive => true do
   pod 'PLSocialSignIn', :path => '../'
+  
+  pod 'Fabric'
+  pod 'TwitterKit'
+  pod 'TwitterCore'
+  pod 'FBSDKCoreKit'
+  pod 'FBSDKLoginKit'
+  pod 'Google/SignIn'
+  
 end
 
 target 'PLSocialSignIn_Tests', :exclusive => true do

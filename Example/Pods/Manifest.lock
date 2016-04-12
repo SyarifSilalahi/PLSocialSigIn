@@ -1,0 +1,14 @@
+PODS:
+  - PLSocialSignIn (0.1.0)
+
+DEPENDENCIES:
+  - PLSocialSignIn (from `../`)
+
+EXTERNAL SOURCES:
+  PLSocialSignIn:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PLSocialSignIn: 086f0ad86390482ad2791b0cae4e4cac708b7428
+
+COCOAPODS: 0.39.0
